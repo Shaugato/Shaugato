@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @Shaugato
-- 👀 I’m interested in cyber securiety , programming , game desing, database design
-- 🌱 I’m currently studying Swinburne University And Technology. I am doing double major ( Cyber Securiety and Software development)
-- 📫 You can reach me using my linkdin profile "SHAUGATO PAROI"
+# 👋 Hi, I'm Shaugato Paroi
 
-<!---
-Shaugato/Shaugato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a Computer Science graduate from Swinburne University of Technology with a double major in **Cybersecurity** and **Software Development**.
+
+🔐 I'm passionate about securing systems and automating infrastructure. My interests span across:
+
+- Cloud Security (AWS, Azure, IAM, GuardDuty, KMS)
+- SIEM log analysis & incident response
+- Infrastructure as Code (Terraform, Ansible)
+- Endpoint & Identity Management (Intune, Azure AD, Entra ID, JumpCloud)
+- Threat detection (Sysmon, Filebeat, Grok, Elastic Stack)
+- Automation with PowerShell, Python, and GitHub Actions
+
+📘 Certifications:
+- CompTIA Security +
+- Microsoft Certified: SC-900
+- CompTIA Network+
+- Cisco Certified: CCNA
+
+📚 I'm constantly building, breaking, and securing things to deepen my skills. Currently diving deeper into **zero trust architecture** and **cloud-native security patterns**.
+
+📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shaugato-paroi-062401236/)
+
+---
+
+> 🚀 “Security isn’t a checkbox—it’s a mindset.”
